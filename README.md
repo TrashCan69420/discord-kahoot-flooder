@@ -5,6 +5,7 @@
 ## Installation and usage
 
 Download the project as a .zip file, then extract to a folder
+
 Before running the commands, make sure you put your bots token in the token.txt file!
 
 ```bash
